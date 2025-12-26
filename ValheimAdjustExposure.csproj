@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Product>AdjustExposure</Product>
     <Description>A mod for Valheim that allows to customize exposure and tonemapping settings</Description>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Aidin</Authors>
     <RepositoryUrl>https://github.com/aidinabedi/ValheimAdjustExposure</RepositoryUrl>
     <TargetFramework>netstandard2.1</TargetFramework>
